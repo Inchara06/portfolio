@@ -1,0 +1,41 @@
+/* General styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f4f8;
+  color: #333;
+}
+
+/* Header styles */
+header {
+  background-color: #0078d7;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Section styles */
+section {
+  padding: 30px;
+  text-align: center;
+}
+
+/* Footer styles */
+footer {
+  background-color: #0078d7;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
